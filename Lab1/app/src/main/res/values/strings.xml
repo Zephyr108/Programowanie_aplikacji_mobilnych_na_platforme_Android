@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">lab1-GUI</string>
+    <string name="imie">Imię: </string>
+    <string name="nazwisko">Nazwisko: </string>
+    <string name="lOcen">Liczba ocen: </string>
+
+    <string name="pod1">Wpisz imię</string>
+    <string name="pod2">Wpisz nazwisko</string>
+    <string name="pod3">Wpisz liczbę ocen (5-15)</string>
+
+    <string name="oc">OCENY</string>
+
+    <string name="puste">Pole nie może być puste</string>
+    <string name="err">Nieprawidłowa wartość</string>
+    <string name="tostName">Wartość pola imię nie może być pusta!</string>
+    <string name="tostSurname">Wartość pola nazwisko nie może być pusta</string>
+    <string name="tostO">Liczba ocen musi wynosić pomiędzy 5 i 15</string>
+
+    <string name="wprOcen">Wprowadzanie ocen</string>
+
+    <string name="ocena">ocena</string>
+    <string name="dwa">2</string>
+    <string name="trzy">3</string>
+    <string name="czt">4</string>
+    <string name="pie">5</string>
+
+    <string name="oblicz">Oblicz średnią</string>
+    <string name="tekstKon">Twoja średnia to: </string>
+
+    <string name="great">Super :)</string>
+    <string name="notGreat">Tym razem mi nie poszło</string>
+
+    <string name="endP">Gratulacje! Otrzymujesz zaliczenie!</string>
+    <string name="endNP">Pisz podanie o warunek</string>
+</resources>
